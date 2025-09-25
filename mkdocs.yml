@@ -1,0 +1,14 @@
+site_name: My Personal Page
+site_author: Asier Merino Labanda
+site_url: https://Asier-Merino.github.io
+
+theme:
+  name: readthedocs  # Prueba: material, mkdocs, readthedocs
+
+nav:
+  - Inicio: index.md
+  - Sobre Mí: sobre-mi.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
+
+repo_url: https://github.com/Asier-Merino/Asier-Merino.github.io
